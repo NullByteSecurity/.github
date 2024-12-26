@@ -5,8 +5,8 @@ Welcome to **NullByte | Open Security** – an open community of independent cyb
 ## Resources
 
 - [Telegram Channel](https://t.me/NByteOSC)
-- [Forum (Telegram)](https://t.me/NByteForum): Our primary hub for communication.
-- [NullByte Games](https://t.me/NByteGames) | [CTF Platform](https://games.nullbyte.pro): A platform for games and CTF competitions.
+- [Forum (Telegram)](https://t.me/NByteForum)
+- [NullByte Games](https://t.me/NByteGames) | [CTF Platform](https://games.nullbyte.pro)
 
 ## Friends of NullByte
 
